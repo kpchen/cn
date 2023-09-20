@@ -9,7 +9,7 @@ sitemap:
     lastmod: 2014-10-18T00:00:00-00:00
 ---
 
-# <i class="fa fa-film"/> 视频教程
+## <i class="fa fa-film">  视频教程
 
 <div class="row">
     <div class="col-md-6 col-sm-12">
@@ -27,7 +27,7 @@ sitemap:
     </div>
 </div>
 
-## <i class="fa fa-film"/i> 其他Jhipster相关视频
+## <i class="fa fa-film"> 其他Jhipster相关视频
 
 <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-4">
